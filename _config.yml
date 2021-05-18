@@ -113,3 +113,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+domain: 'https://fierce-whale-41b6f.netlify.app'
